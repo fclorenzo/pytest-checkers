@@ -1,3 +1,4 @@
+#board_gui.py
 from utils import get_piece_gui_coords, get_piece_position
 import pygame
 

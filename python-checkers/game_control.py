@@ -1,3 +1,4 @@
+#game_control.py
 from piece import Piece
 from board import Board
 from board_gui import BoardGUI
