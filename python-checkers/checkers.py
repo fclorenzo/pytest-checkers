@@ -1,4 +1,3 @@
-#checkers.py
 import pygame as pg
 from sys import exit, argv
 from pygame.locals import *

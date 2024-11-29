@@ -1,4 +1,3 @@
-#utils.py
 def get_position_with_row_col(row, column):
     # Receives a piece's row and column positions and returns the (0-31) position on the board.
     # Position is calculated taking into consideration the fact that each leftmost dark square on the board is (row * 4).
